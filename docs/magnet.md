@@ -36,3 +36,8 @@ TODO:
 * It may be preferable to place a small nylon spacer between magnet
   and stepper motor shaft before gluing.  (So as to reduce magnet
   losses from the magnet through the shaft.)
+
+* This experimental pcb requires several wires to be routed between
+  stepper and micro-controller.  Building and routing the resulting
+  wire harness was cumbersome.  If doing again, I would try to build a
+  pcb with a micro-controller on it to simplify wiring.
