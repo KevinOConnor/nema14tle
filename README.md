@@ -10,3 +10,6 @@ The original design of the board is from Voron user "JNP".
 The PCB design files can be found in the [pcb/](pcb/) directory.  The
 boards were designed using [KiCad](https://kicad-pcb.org/) and
 manufactured using [JLC PCB](https://jlcpcb.com/).
+
+There is some information on the magnet mounting procedure in the
+[magnet document](docs/magnet.md).
