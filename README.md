@@ -8,7 +8,7 @@ The original design of the board is from Voron user "JNP".
 ![board_stepper](docs/img/board_stepper.jpg)
 
 The PCB design files can be found in the [pcb/](pcb/) directory.  The
-boards were designed using [KiCad](https://kicad-pcb.org/) and
+boards were designed using [KiCad](https://kicad.org/) and
 manufactured using [JLC PCB](https://jlcpcb.com/).
 
 There is some information on the magnet mounting procedure in the
